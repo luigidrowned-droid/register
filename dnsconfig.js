@@ -1,4 +1,4 @@
-var domainName = "is-a.dev";
+var domainName = "register.cf";
 var registrar = NewRegistrar("none");
 var dnsProvider = DnsProvider(NewDnsProvider("cloudflare"));
 
